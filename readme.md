@@ -1,1 +1,1 @@
-"this is Colby's first git project!!
+This is Colby's first git project!!
